@@ -1,7 +1,7 @@
 $(document).ready(function() {
     'use strict';
 
-    var liveRadioListUrl = "https://gist.githubusercontent.com/DataFreeNetwork/4dc730da736288580e251cffa685af79/raw/945c003047d06771e674835b3d1e29336af426ab/datafree-radio.json";
+    var liveRadioListUrl = "https://raw.githubusercontent.com/DataFreeNetwork/DataFreeRadio-Vs1/master/radio.json";
 
     var stationList = {};
     var selectedStationList = [];
